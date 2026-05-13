@@ -1,11 +1,11 @@
 {
   "name": "پنل پیل",
   "short_name": "پنل پیل",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/index.html",
+  "scope": "/index.html",
   "display": "standalone",
-  "background_color": "#0f1115",
-  "theme_color": "#0f1115",
+  "background_color": "#151515",
+  "theme_color": "#151515",
   "icons": [
     {
       "src": "/icons/icon-192.png",
