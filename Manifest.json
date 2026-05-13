@@ -8,12 +8,12 @@
   "theme_color": "#151515",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "https://rozup.ir/view/4238443/InShot_20260513_192246817.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "https://rozup.ir/view/4238443/InShot_20260513_192246817.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
